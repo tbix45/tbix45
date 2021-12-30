@@ -14,6 +14,8 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Flask](https://img.shields.io/badge/flask-333333.svg?style=flat&logo=flask&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-333333.svg?style=flat&logo=spring&logoColor=green)
 <!--   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
 <!--   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
 - 🌐 &nbsp;
