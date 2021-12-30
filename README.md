@@ -14,8 +14,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Flask](https://img.shields.io/badge/flask-333333.svg?style=flat&logo=flask&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-333333.svg?style=flat&logo=spring&logoColor=green)
+
 <!--   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
 <!--   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
 - 🌐 &nbsp;
@@ -34,6 +33,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Flask](https://img.shields.io/badge/flask-333333.svg?style=flat&logo=flask&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-333333.svg?style=flat&logo=spring&logoColor=green)
   
 <!--   ![Spring Tool Suite](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.codejava.net%2Fimages%2Farticles%2Fframeworks%2Fspring%2Fmvc-sts%2FSpring%2520Tool%2520Suite%2520logo.png&f=1&nofb=1) -->
 
@@ -41,6 +42,7 @@
 <!--   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-333333?style=flat&logo=Adobe%20Lightroom&logoColor=blue)
 <!--   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator) -->
 <!--   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
 
