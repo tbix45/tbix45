@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. -->
-<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
+- 🤔 &nbsp; Full stack engineer and Coding Dojo graduate.
+- 💼 &nbsp; I'm currently looking for development opportunities. I love to learn and contribute in any way possible.
+- 📷 &nbsp; Pursuing photography and blog writing as hobbies/side hustles.
 <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
-- ✍️ &nbsp; Pursuing photography and blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
