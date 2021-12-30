@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://user-images.githubusercontent.com/39704678/147721419-37554b93-b9d9-49e0-99c1-923c76d5a110.jpg" height="400px">
 
 <h2> Hey there! I'm Tom.</h2>
 
